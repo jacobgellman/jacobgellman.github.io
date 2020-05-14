@@ -12,7 +12,7 @@ author_profile: true
 Seminars
 ======
 * *Spatial analysis using the sf package in R* 
-  * A seminar for [eco-data-science](https://eco-data-science.github.io/) on 10 March 2020. 
+  * A seminar I led for [eco-data-science](https://eco-data-science.github.io/) on 10 March 2020. 
   * Topics covered: transforming coordinate systems, making spatial data from non-spatial files, area and distance calculations, buffers, shapefile outputs, and map preparation. 
   * You can read the seminar materials [here](https://jacobgellman.github.io/files/eco-data-sci-sf.html) and clone the GitHub repository [here](https://github.com/jacobgellman/eco-data-sci-sf).
 
