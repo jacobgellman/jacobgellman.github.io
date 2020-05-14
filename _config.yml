@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jacob Gellman"
 title_separator          : "-"
-name                     : &name ""
+name                     : &name "Jacob Gellman"
 description              : &description "PhD Student at the University of California, Santa Barbara."
 url                      : https://jacobgellman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
