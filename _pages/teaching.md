@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-======
+------
 
 Spatial analysis using the sf package in R
 ======
