@@ -11,7 +11,7 @@ author_profile: true
 
 Seminars
 ======
-* *Spatial analysis using the sf package in R.* 
+* *Spatial analysis using the sf package in R* 
   * A seminar for [eco-data-science](https://eco-data-science.github.io/) on 10 March 2020. 
   * Topics covered: transforming coordinate systems, making spatial data from non-spatial files, area and distance calculations, buffers, shapefile outputs, and map preparation. 
   * You can read the seminar materials [here](https://jacobgellman.github.io/files/eco-data-sci-sf.html) and clone the GitHub repository [here](https://github.com/jacobgellman/eco-data-sci-sf).
@@ -40,5 +40,5 @@ Teaching Assistant, University of California, Santa Barbara
 
 Teaching Assistant, Acadèmie de Rouen
 ======
-* *Teaching Assistant in Le Havre, France* 
-  * From 2013 to 2014 I taught students at the middle school level, ages 13 to 15, at Collège Les Acacias and Collège La Hève.
+* *English* 
+  * From 2013 to 2014 I taught students at the middle school level, ages 13 to 15, at Collège Les Acacias and Collège La Hève in Le Havre, France.
