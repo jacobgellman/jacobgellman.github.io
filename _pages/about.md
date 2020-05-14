@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Jacob Gellman"
 author_profile: true
 redirect_from: 
   - /about/
