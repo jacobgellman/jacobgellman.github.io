@@ -28,3 +28,7 @@ Teaching Assistant for ECON 140A, upper division undergraduate Economterics. Cla
 Statistics for Economics (PSTAT 109)
 ======
 Teaching Assistant for PSTAT 109, undergraduate statistics and probability. Class taught by Brian Wainwright. Topics covered include set theory, probability, distributions, statistical operators, random variables, estimators, and confidence intervals. Textbook: Newbold, Carlson, and Thorne, Statistics for Business and Economics.
+
+English
+======
+Teaching Assistant in Le Havre, France from 2013 to 2014. I taught students at the middle school level, ages 13 to 15, at Collège Les Acacias and Collège La Hève.
