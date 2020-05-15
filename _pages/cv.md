@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
+------
+
 You can view my most recent CV [here](https://jacobgellman.github.io/files/gellman_cv.pdf).
