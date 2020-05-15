@@ -9,15 +9,13 @@ author_profile: true
 
 ------
 
-Seminars
-======
+**Seminars**
 * *Spatial analysis using the sf package in R* 
   * A seminar I led for [eco-data-science](https://eco-data-science.github.io/) on 10 March 2020. 
   * Topics covered: transforming coordinate systems, making spatial data from non-spatial files, area and distance calculations, buffers, shapefile outputs, and map preparation. 
   * You can read the seminar materials [here](https://jacobgellman.github.io/files/eco-data-sci-sf.html) and clone the GitHub repository [here](https://github.com/jacobgellman/eco-data-sci-sf).
 
-Teaching Assistant, University of California, Santa Barbara
-======
+**Teaching Assistant, University of California, Santa Barbara**
 * *Natural Resource Economics (ESM 242)* 
   * Class taught by Andrew Plantinga. 
   * Topics covered: renewable resources, exhaustible resources, dynamic programming, fisheries, Faustmann models, stock pollutants, spatial dependencies, non-market values, and other extensions. 
@@ -38,7 +36,6 @@ Teaching Assistant, University of California, Santa Barbara
   * Topics covered: set theory, probability, distributions, statistical operators, random variables, estimators, and confidence intervals.
   * Textbook: Newbold, Carlson, and Thorne, Statistics for Business and Economics.
 
-Teaching Assistant, Acadèmie de Rouen
-======
+**Teaching Assistant, Acadèmie de Rouen**
 * *English* 
   * From 2013 to 2014 I taught students at the middle school level, ages 13 to 15, at Collège Les Acacias and Collège La Hève in Le Havre, France.
