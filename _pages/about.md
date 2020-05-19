@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Jacob Gellman"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Jacob Gellman
 ------
 
 I am a PhD student in Economics and Environmental Science at the University of California, Santa Barbara. My research interests are in environmental, resource, and urban economics. Current projects include the impact of wildfire on recreation behavior in the west, as well as estimation of welfare change from affordable housing policy.
