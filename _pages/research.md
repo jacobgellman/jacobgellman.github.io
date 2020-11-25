@@ -9,6 +9,8 @@ author_profile: true
 
 ------
 
+![](images/ft_mcmurray_wiki.png)
+
 **Working Papers**
 * "Wildfire threatens outdoor recreation in the Western US" (with Margaret Walls and Matthew Wibbenmeyer).
 
