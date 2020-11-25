@@ -9,8 +9,6 @@ author_profile: true
 
 ------
 
-![](images/ft_mcmurray_wiki.png)
-
 **Seminars**
 * *Spatial analysis using the sf package in R* 
   * A seminar I led for [eco-data-science](https://eco-data-science.github.io/) on 10 March 2020. 
