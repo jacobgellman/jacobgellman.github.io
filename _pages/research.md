@@ -14,7 +14,7 @@ author_profile: true
 ![](images/gww_map_exposure.png)
 
 **Works in Progress**
-* "The effects of wildfire insurance on housing development."
+* "The effects of wildfire insurance distortions on the housing market."
 
 * "Travel cost estimation of willingness to pay to avoid wildfire smoke" (with Margaret Walls and Matthew Wibbenmeyer).
 
