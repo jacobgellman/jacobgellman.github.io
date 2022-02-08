@@ -9,21 +9,20 @@ author_profile: true
 
 ------
 
+**Publications**
+* Gellman, J., Walls, M., & Wibbenmeyer, M. (2022). Wildfire, smoke, and outdoor recreation in the western United States. Forest Policy and Economics, 134, 102619. [Main article](https://jacobgellman.github.io/files/gellman_et_al_2022-wildfire_smoke_recreation.pdf). [Appendix](https://jacobgellman.github.io/files/gellman_et_al_2022-wildfire_smoke_recreation_appendix.pdf).
+
 **Working Papers**
-* "Wildfire, smoke, and outdoor recreation in the western United States" (with Margaret Walls and Matthew Wibbenmeyer). 2021. RFF Working Paper 21-22. [Link](https://jacobgellman.github.io/files/gellman_et_al_2021-wildfire_smoke_and_recreation_in_the_western_US.pdf).
+* Seto, D., Jones, C., Trugman, A., Varga, K., Plantinga, A., Carvalho, L., Thompson, C., Gellman, J., & Daum, K. Potential impacts of fuels treatment on fire behavior and evacuation time for the Camp Fire in Paradise, California. Revise and Resubmit, Fire.
 
-**Works in Progress**
-* "The effects of wildfire insurance distortions on the housing market."
+**Works in Preparation**
+* Gellman, J. Effects of affordable housing quotas on housing markets.
 
-* "Wildfire risk modeling and insurance regulation in California" (with Judson Boomhower, Meredith Fowlie, and Andrew Plantinga).
+* Boomhower, J., Fowlie, M., Gellman, J., & Plantinga, A. Wildfire risk modeling and homeowners insurance regulation in California. 
 
-* "Travel cost estimation of willingness to pay to avoid wildfire smoke" (with Margaret Walls and Matthew Wibbenmeyer).
+* Gellman, J., Walls, M., & Wibbenmeyer, M. Willingness to pay to avoid wildfire smoke: evidence from administrative recreation data.
 
-* "Dynamic tradeoffs of vegetation management regimes to mitigate wildfire risk." (with Kristofer Daum, Andrew Plantinga, Daisuke Seto, and Anna Trugman).
-
-* "US urban rail development and real estate values" (with Alec McQuilkin).
-
-* "Estimation of welfare change from affordable housing policy using bunching."
+* Daum, K., Gellman, J., Trugman, A., & Plantinga, A. Dynamic tradeoffs of vegetation management regimes to mitigate wildfire risk.
 
 **Policy Briefs**
-* "University of California Police Department: History and Current Issues" (with Youssef Benzarti and Sarah Robinson). [Link](https://jacobgellman.github.io/files/benzarti_gellman_robinson_ucpd_nov2020.pdf).
+* Benzarti, Y., Gellman, J., & Robinson, S. (2020). University of California Police Department: History and current issues. [Link](https://jacobgellman.github.io/files/benzarti_gellman_robinson_ucpd_nov2020.pdf).
