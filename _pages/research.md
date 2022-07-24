@@ -14,7 +14,7 @@ author_profile: true
 
 * Gellman, J., Walls, M., & Wibbenmeyer, M. (2022). Wildfire, smoke, and outdoor recreation in the western United States. Forest Policy and Economics, 134, 102619. [Main article](https://jacobgellman.github.io/files/gellman_et_al_2022-wildfire_smoke_recreation.pdf). [Appendix](https://jacobgellman.github.io/files/gellman_et_al_2022-wildfire_smoke_recreation_appendix.pdf). 
 
-**Works in Preparation**
+**Works in Progress**
 * Gellman, J., Walls, M., & Wibbenmeyer, M. Willingness to pay to avoid wildfire smoke: evidence from administrative recreation data.
 
 * Boomhower, J., Fowlie, M., Gellman, J., & Plantinga, A. Wildfire risk modeling and homeowners insurance regulation in California. 
