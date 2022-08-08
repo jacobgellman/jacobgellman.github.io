@@ -19,6 +19,6 @@ author_profile: true
 
 * Boomhower, J., Fowlie, M., Gellman, J., & Plantinga, A. Wildfire risk modeling and homeowners insurance regulation in California. 
 
-* Daum, K., Gellman, J., Trugman, A., & Plantinga, A. Dynamic tradeoffs of vegetation management regimes to mitigate wildfire risk.
+* Daum, K., Gellman, J., Hansen, W., Plantinga, A., Jones, C., & Trugman, A. Regional-scale impacts of fuels management protocols on forest structure and fire cycle in California's Sierra Nevada mountains.
 
 * Gellman, J. Effects of affordable housing quotas on housing markets.
