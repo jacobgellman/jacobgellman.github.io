@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% <img src="https://jacobgellman.github.io/images/distrib_lag_pm_smoke.png" alt="The effect of wildfire smoke on PM2.5"> %}
-
 ------
 
 **Publications**
