@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-![](/images/distrib_lag_pm.png)
+<img src="images/distrib_lag_pm_smoke.png" alt="The effect of wildfire smoke on PM2.5">
 
 **Publications**
 * Gellman, J., Walls, M., & Wibbenmeyer, M. (2022). Wildfire, smoke, and outdoor recreation in the western United States. Forest Policy and Economics, 134, 102619. [Main article](https://jacobgellman.github.io/files/gellman_et_al_2022-wildfire_smoke_recreation.pdf). [Appendix](https://jacobgellman.github.io/files/gellman_et_al_2022-wildfire_smoke_recreation_appendix.pdf). 
