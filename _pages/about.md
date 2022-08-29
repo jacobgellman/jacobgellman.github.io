@@ -13,4 +13,4 @@ I am a PhD candidate in Economics and Environmental Science at the University of
 
 I received a BA in Economics from the University of Puget Sound in 2013. I subsequently worked as a research assistant and later as an energy economics consultant. Between academic and professional work I lived in Le Havre, France, where I taught English to students aged 13 to 15. I previously ran radio shows at KCSB in Santa Barbara and KUPS in Tacoma. Personal interests include guitar, French, punk, new wave, art, hiking, and basketball.
 
-Contact: gellman@ucsb.edu.
+Email: gellman@ucsb.edu.

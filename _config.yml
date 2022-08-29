@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Jacob Gellman"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "PhD Student at University of California, Santa Barbara"
   location         : "Santa Barbara, California"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "gellman@bren.ucsb.edu"
+  email            : "gellman@ucsb.edu"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
