@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-{% include base_path %}
+[comment] <> ({% include base_path %})
 
 ------
 
