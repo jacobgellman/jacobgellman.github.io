@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![](images/sequoia.jpg)
+![](images/ft_mcmurray_wiki.png)
 
 I am a PhD candidate in Economics and Environmental Science at the University of California, Santa Barbara. My research focuses on the economics of wildfire, land use, and housing. Current projects assess the welfare damages of wildfire smoke for outdoor recreation, wildfire risk modeling and homeowners insurance regulation in California, the effects of affordable housing quotas on housing markets, and other wildfire- or housing-related topics.
 

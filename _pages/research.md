@@ -5,11 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-[comment] <> ({% include base_path %})
+{% include base_path %}
 
 ------
 
-![](images/ft_mcmurray_wiki.png)
+![](https://jacobgellman.github.io/images/distrib_lag_pm.png)
 
 **Publications**
 * Gellman, J., Walls, M., & Wibbenmeyer, M. (2022). Wildfire, smoke, and outdoor recreation in the western United States. Forest Policy and Economics, 134, 102619. [Main article](https://jacobgellman.github.io/files/gellman_et_al_2022-wildfire_smoke_recreation.pdf). [Appendix](https://jacobgellman.github.io/files/gellman_et_al_2022-wildfire_smoke_recreation_appendix.pdf). 
