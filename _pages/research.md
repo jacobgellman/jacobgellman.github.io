@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-------
-
 ![](/images/distrib_lag_pm.png)
 
 **Publications**
