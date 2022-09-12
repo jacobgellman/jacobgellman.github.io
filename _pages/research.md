@@ -15,7 +15,7 @@ author_profile: true
 * Seto, D., Jones, C., Trugman, A., Varga, K., Plantinga, A., Carvalho, L., Thompson, C., Gellman, J., & Daum, K. (2022). Simulating potential impacts of fuel treatments on fire behavior and evacuation time of the 2018 Camp Fire in Northern California. Fire, 5(2), 37. [Main article](https://jacobgellman.github.io/files/seto_et_al_2022-fuel_treatments_camp_fire.pdf). [Appendix](https://jacobgellman.github.io/files/seto_et_al_2022-fuel_treatments_camp_fire_appendix.pdf).
 
 **Works in Progress**
-* Gellman, J., Walls, M., & Wibbenmeyer, M. Willingness to pay to avoid wildfire smoke: evidence from administrative recreation data.
+* Gellman, J., Walls, M., & Wibbenmeyer, M. Welfare damages of wildfire smoke for outdoor recreation: evidence from administrative data.
 
 * Boomhower, J., Fowlie, M., Gellman, J., & Plantinga, A. Wildfire risk modeling and homeowners insurance regulation in California. 
 
