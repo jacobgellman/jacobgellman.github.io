@@ -9,8 +9,14 @@ redirect_from:
 
 ![](images/ft_mcmurray_wiki.png)
 
-I am a PhD candidate in Economics and Environmental Science at the University of California, Santa Barbara. My research focuses on the economics of wildfire, land use, and housing. Current projects assess the welfare damages of wildfire smoke for outdoor recreation, wildfire risk modeling and homeowners insurance regulation in California, the effects of affordable housing quotas on housing markets, and other wildfire- or housing-related topics.
+I am a PhD candidate in Economics and Environmental Science at the University of California, Santa Barbara. My research focuses on the economics of wildfire, land use, and housing. I am on the job market for the 2022-23 academic year. 
 
-I received a BA in Economics from the University of Puget Sound in 2013. I subsequently worked as a research assistant and later as an energy economics consultant. Between academic and professional work I lived in Le Havre, France, where I taught English to students aged 13 to 15. I previously ran radio shows at KCSB in Santa Barbara and KUPS in Tacoma. Personal interests include guitar, French, punk, new wave, art, hiking, and basketball.
+My [job market paper](https://jacobgellman.github.io/files/gellman_wildfire_smoke_jmp.pdf) measures the welfare damages of wildfire smoke for outdoor recreation. The paper values a transient environmental bad, wildfire smoke, in a setting where individuals make sequential decisions under evolving sets of information. Other current projects investigate wildfire risk modeling and homeowners insurance regulation in California, the effects of affordable housing quotas on housing markets, and spatial prioritization of fuels management projects to mitigate fire hazard. 
+
+At the University of California, Santa Barbara I have spent several years as a researcher in the Earth Research Institute. In this role I have worked on interdisciplinary wildfire issues with ecologists, meteorologists, engineers, and other natural scientists. Previously I worked as an energy economics consultant, where I advised utilities and tribes on energy decisions and produced expert witness testimony for entities such as the US Department of Justice and the Illinois Attorney General. 
+
+I have experience as a teaching assistant in natural resource economics, intermediate microeconomic theory, econometrics, and statistics. I enjoy mentoring students on coding, research projects, and professional development. Previously I taught English in the French school system for students aged 13 to 15. 
+
+Personal interests include guitar, French, punk, new wave, art, hiking, and basketball.
 
 Email: gellman@ucsb.edu.
