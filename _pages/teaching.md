@@ -16,6 +16,8 @@ author_profile: true
   * You can read the seminar materials [here](https://jacobgellman.github.io/files/eco-data-sci-sf.html) and clone the GitHub repository [here](https://github.com/jacobgellman/eco-data-sci-sf).
 
 **Teaching Assistant, University of California, Santa Barbara**
+* *UCSB Academic Senate Outstanding Teaching Assistant Award, Nominee, 2021*
+
 * *Natural Resource Economics (ESM 242)* 
   * Class taught by Andrew Plantinga. 
   * Topics covered: renewable resources, exhaustible resources, dynamic programming, fisheries, Faustmann models, stock pollutants, spatial dependencies, non-market values, and other extensions. 
