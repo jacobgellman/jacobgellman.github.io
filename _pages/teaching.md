@@ -5,11 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-
+{% include base_path %}
 
 ------
-
-![](images/profile_bren.png)
 
 **Seminars**
 * *Spatial analysis using the sf package in R* 
