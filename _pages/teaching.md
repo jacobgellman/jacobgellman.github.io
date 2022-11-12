@@ -9,6 +9,8 @@ author_profile: true
 
 ------
 
+![](images/profile_bren.png)
+
 **Seminars**
 * *Spatial analysis using the sf package in R* 
   * A seminar I led for [eco-data-science](https://eco-data-science.github.io/) in March 2020. 
