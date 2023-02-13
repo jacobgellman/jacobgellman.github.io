@@ -9,7 +9,7 @@ redirect_from:
 
 ![](images/ft_mcmurray_wiki.png)
 
-I am a PhD candidate in Economics and Environmental Science at the University of California, Santa Barbara. My research focuses on the economics of wildfire, land use, and housing. I am on the job market for the 2022-23 academic year. 
+I am a PhD candidate in Economics and Environmental Science at the University of California, Santa Barbara. My research focuses on the economics of wildfire, land use, and housing. In August 2023 I will join the University of Alaska Anchorage as a two year postdoc. 
 
 My [job market paper](https://jacobgellman.github.io/files/gellman_wildfire_smoke_jmp.pdf) measures the welfare damages of wildfire smoke for outdoor recreation. The paper values a transient environmental bad, wildfire smoke, in a setting where individuals make sequential decisions under evolving sets of information. Other current projects investigate wildfire risk modeling and homeowners insurance regulation in California, the effects of affordable housing quotas on housing markets, and spatial prioritization of fuels management projects to mitigate fire hazard. 
 
