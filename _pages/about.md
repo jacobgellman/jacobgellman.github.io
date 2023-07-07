@@ -19,4 +19,4 @@ I have experience as a teaching assistant in natural resource economics, interme
 
 Personal interests include guitar, French, punk, new wave, art, hiking, and basketball.
 
-Email: gellman@ucsb.edu.
+Email: jgellman@alaska.edu.
