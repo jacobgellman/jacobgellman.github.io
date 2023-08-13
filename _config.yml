@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jacob Gellman"
 title_separator          : "-"
 name                     : &name ""
-description              : &description "PhD Student at the University of California, Santa Barbara."
+description              : &description "Postdoctoral Fellow at the University of Alaska Anchorage."
 url                      : https://jacobgellman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jacobgellman.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jacob Gellman"
   avatar           : "profile.jpg"
-  bio              : "PhD Student at University of California, Santa Barbara"
-  location         : "Santa Barbara, California"
+  bio              : "Postdoctoral Fellow at University of Alaska Anchorage"
+  location         : "Anchorage, Alaska"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "gellman@ucsb.edu"
+  email            : "jgellman@alaska.edu"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

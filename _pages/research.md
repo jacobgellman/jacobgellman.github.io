@@ -10,19 +10,22 @@ author_profile: true
 ------
 
 **Working Papers**
-* Gellman, J., Walls, M., & Wibbenmeyer, M. "Non-market damages of wildfire smoke: evidence from administrative recreation data." [Link](https://jacobgellman.github.io/files/gellman_wildfire_smoke_jmp.pdf).
+* Gellman, J., Walls, M., & Wibbenmeyer, M. "Welfare Losses from Wildfire Smoke: Evidence from Daily Outdoor Recreation Data." [Link](https://jacobgellman.github.io/files/gellman_et_al_2023-welfare_losses_wildfire_smoke_recreation.pdf).
 
-* Daum, K. L. W., Hansen, W. D., Gellman, J., Plantinga, A., Jones, C., & Trugman, A. T. "Do vegetation fuel reduction treatments alter forest fire severity and carbon stability in California forests?"
+* Boomhower, J., Fowlie, M., Gellman, J., & Plantinga, A. "How Are Insurance Markets Adapting to Climate Change? Risk Selection and Regulation in the Market for Homeowners Insurance."
+
+* Daum, K. L. W., Hansen, W. D., Gellman, J., Plantinga, A., Jones, C., & Trugman, A. T. "Do Vegetation Fuel Reduction Treatments Alter Forest Fire Severity and Sarbon Stability in California Forests?"
 
 **Publications**
-* Gellman, J., Walls, M., & Wibbenmeyer, M. (2022). "Wildfire, smoke, and outdoor recreation in the western United States." Forest Policy and Economics, 134, 102619. [Main article](https://jacobgellman.github.io/files/gellman_et_al_2022-wildfire_smoke_recreation.pdf). [Appendix](https://jacobgellman.github.io/files/gellman_et_al_2022-wildfire_smoke_recreation_appendix.pdf). 
+* Gellman, J., Walls, M., & Wibbenmeyer, M. (2022). "Wildfire, Smoke, and Outdoor Recreation in the Western United States." Forest Policy and Economics, 134, 102619. [Main article](https://jacobgellman.github.io/files/gellman_et_al_2022-wildfire_smoke_recreation.pdf). [Appendix](https://jacobgellman.github.io/files/gellman_et_al_2022-wildfire_smoke_recreation_appendix.pdf). 
 
-* Seto, D., Jones, C., Trugman, A., Varga, K., Plantinga, A., Carvalho, L., Thompson, C., Gellman, J., & Daum, K. (2022). "Simulating potential impacts of fuel treatments on fire behavior and evacuation time of the 2018 Camp Fire in Northern California." Fire, 5(2), 37. [Main article](https://jacobgellman.github.io/files/seto_et_al_2022-fuel_treatments_camp_fire.pdf). [Appendix](https://jacobgellman.github.io/files/seto_et_al_2022-fuel_treatments_camp_fire_appendix.pdf).
+* Seto, D., Jones, C., Trugman, A., Varga, K., Plantinga, A., Carvalho, L., Thompson, C., Gellman, J., & Daum, K. (2022). "Simulating Potential Impacts of Fuel Treatments on Fire Behavior and Evacuation Time of the 2018 Camp Fire in Northern California." Fire, 5(2), 37. [Main article](https://jacobgellman.github.io/files/seto_et_al_2022-fuel_treatments_camp_fire.pdf). [Appendix](https://jacobgellman.github.io/files/seto_et_al_2022-fuel_treatments_camp_fire_appendix.pdf).
 
 **Works in Progress**
+* Gellman, J., Pond, Z., Walls, M., & Wibbenmeyer, M. "Extreme Heat, Outdoor Recreation, and Climate Damages: Evidence from Campground Reservations and Cancellations."
 
-* Boomhower, J., Fowlie, M., Gellman, J., & Plantinga, A. "Property insurance markets and climate change adaptation." 
+* Gellman, J., & Wibbenmeyer, M. "Wildfire Smoke in the United States."
 
-* Gellman, J. "Spatial and dynamic natural disaster risk mitigation."
+* Gellman, J. "Spatial and Dynamic Natural Disaster Risk Mitigation."
 
-* Gellman, J. "Effects of affordable housing quotas on housing markets."
+* Gellman, J. "Effects of Affordable Housing Quotas on Housing Markets."
