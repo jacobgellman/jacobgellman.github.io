@@ -10,7 +10,7 @@ author_profile: true
 ------
 
 **Working Papers**
-* Gellman, J., Walls, M., & Wibbenmeyer, M. "Welfare Losses from Wildfire Smoke: Evidence from Daily Outdoor Recreation Data." [Link](https://jacobgellman.github.io/files/gellman_et_al_2023-welfare_losses_wildfire_smoke_recreation.pdf).
+* Gellman, J., Walls, M., & Wibbenmeyer, M. "Welfare Losses from Wildfire Smoke: Evidence from Daily Outdoor Recreation Data." Resources for the Future Working Paper No. 23-21. [Link](https://jacobgellman.github.io/files/gellman_et_al_2023-welfare_losses_wildfire_smoke_recreation.pdf).
 
 * Boomhower, J., Fowlie, M., Gellman, J., & Plantinga, A. "How Are Insurance Markets Adapting to Climate Change? Risk Selection and Regulation in the Market for Homeowners Insurance."
 
