@@ -14,6 +14,8 @@ author_profile: true
 
 * Boomhower, J., Fowlie, M., Gellman, J., & Plantinga, A. "How Are Insurance Markets Adapting to Climate Change? Risk Selection and Regulation in the Market for Homeowners Insurance."
 
+* Gellman, J., & Wibbenmeyer, M. "Wildfire Smoke in the United States."
+
 * Daum, K. L. W., Hansen, W. D., Gellman, J., Plantinga, A., Jones, C., & Trugman, A. T. "Do Vegetation Fuel Reduction Treatments Alter Forest Fire Severity and Sarbon Stability in California Forests?"
 
 **Publications**
@@ -22,10 +24,8 @@ author_profile: true
 * Seto, D., Jones, C., Trugman, A., Varga, K., Plantinga, A., Carvalho, L., Thompson, C., Gellman, J., & Daum, K. (2022). "Simulating Potential Impacts of Fuel Treatments on Fire Behavior and Evacuation Time of the 2018 Camp Fire in Northern California." Fire, 5(2), 37. [Main article](https://jacobgellman.github.io/files/seto_et_al_2022-fuel_treatments_camp_fire.pdf). [Appendix](https://jacobgellman.github.io/files/seto_et_al_2022-fuel_treatments_camp_fire_appendix.pdf).
 
 **Works in Progress**
-* Gellman, J., Pond, Z., Walls, M., & Wibbenmeyer, M. "Extreme Heat, Outdoor Recreation, and Climate Damages: Evidence from Campground Reservations and Cancellations."
+* Berry, K., Gellman, J., Hennighausen, H., & Watson, B. "The Effect of Natural Disaster Information on Evacuations: Evidence from Hurricane Forecasts and Alerts."
 
-* Gellman, J., & Wibbenmeyer, M. "Wildfire Smoke in the United States."
+* Berry, K., Gellman, J., Hennighausen, H., & Watson, B. "Natural Disasters and Persistent Crime Reduction."
 
-* Gellman, J. "Spatial and Dynamic Natural Disaster Risk Mitigation."
-
-* Gellman, J. "Effects of Affordable Housing Quotas on Housing Markets."
+* Gellman, J., Pond, Z., & Wibbenmeyer, M. "Extreme Heat, Outdoor Recreation, and Climate Damages: Evidence from Campground Reservations and Cancellations."
