@@ -10,13 +10,13 @@ author_profile: true
 ------
 
 **Working Papers**
-* Gellman, J., Walls, M., & Wibbenmeyer, M. "Welfare Losses from Wildfire Smoke: Evidence from Daily Outdoor Recreation Data." Resources for the Future Working Paper No. 23-21. [Link](https://jacobgellman.github.io/files/gellman_et_al_2023-welfare_losses_wildfire_smoke_recreation.pdf).
+* Gellman, J., Walls, M., & Wibbenmeyer, M. (2023). "Welfare Losses from Wildfire Smoke: Evidence from Daily Outdoor Recreation Data." Resources for the Future Working Paper No. 23-21. [Link](https://jacobgellman.github.io/files/gellman_et_al_2023-welfare_losses_wildfire_smoke_recreation.pdf).
 
-* Boomhower, J., Fowlie, M., Gellman, J., & Plantinga, A. "How Are Insurance Markets Adapting to Climate Change? Risk Selection and Regulation in the Market for Homeowners Insurance."
+* Boomhower, J., Fowlie, M., Gellman, J., & Plantinga, A. (2023). "How Are Insurance Markets Adapting to Climate Change? Risk Selection and Regulation in the Market for Homeowners Insurance."
 
-* Gellman, J., & Wibbenmeyer, M. "Wildfire Smoke in the United States."
+* Gellman, J., & Wibbenmeyer, M. (2023). "Wildfire Smoke in the United States." Submitted.
 
-* Daum, K. L. W., Hansen, W. D., Gellman, J., Plantinga, A., Jones, C., & Trugman, A. T. "Do Vegetation Fuel Reduction Treatments Alter Forest Fire Severity and Sarbon Stability in California Forests?"
+* Daum, K. L. W., Hansen, W. D., Gellman, J., Plantinga, A., Jones, C., & Trugman, A. T. (2023). "Do Vegetation Fuel Reduction Treatments Alter Forest Fire Severity and Sarbon Stability in California Forests?" Revise and Resubmit, Earth's Future.
 
 **Publications**
 * Gellman, J., Walls, M., & Wibbenmeyer, M. (2022). "Wildfire, Smoke, and Outdoor Recreation in the Western United States." Forest Policy and Economics, 134, 102619. [Main article](https://jacobgellman.github.io/files/gellman_et_al_2022-wildfire_smoke_recreation.pdf). [Appendix](https://jacobgellman.github.io/files/gellman_et_al_2022-wildfire_smoke_recreation_appendix.pdf). 
@@ -29,3 +29,5 @@ author_profile: true
 * Berry, K., Gellman, J., Hennighausen, H., & Watson, B. "Natural Disasters and Persistent Crime Reduction."
 
 * Gellman, J., Pond, Z., & Wibbenmeyer, M. "Extreme Heat, Outdoor Recreation, and Climate Damages: Evidence from Campground Reservations and Cancellations."
+
+* Gellman, J. "Effects of Affordable Housing Quotas on Housing Markets."
