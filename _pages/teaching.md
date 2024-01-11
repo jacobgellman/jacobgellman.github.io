@@ -9,14 +9,18 @@ author_profile: true
 
 ------
 
-**Seminars**
+**Instructor, University of Alaska Anchorage**
+* *Principles of Microeconomics (ECON 101)* 
+  * Topics covered: supply and demand, optimization, consumer theory, producer theory, perfect competition, public goods, monopoly, oligopoly, and game theory.
+  * Textbook: Acemoglu, Laibson, and List, Microeconomics.
+
+**Teaching Assistant, University of California, Santa Barbara**
+* *UCSB Academic Senate Outstanding Teaching Assistant Award, Nominee, 2021*
+
 * *Spatial analysis using the sf package in R* 
   * A seminar I led for [eco-data-science](https://eco-data-science.github.io/) in March 2020. 
   * Topics covered: transforming coordinate systems, making spatial data from non-spatial files, area and distance calculations, buffers, shapefile outputs, and map preparation. 
   * You can read the seminar materials [here](https://jacobgellman.github.io/files/eco-data-sci-sf.html) and clone the GitHub repository [here](https://github.com/jacobgellman/eco-data-sci-sf).
-
-**Teaching Assistant, University of California, Santa Barbara**
-* *UCSB Academic Senate Outstanding Teaching Assistant Award, Nominee, 2021*
 
 * *Natural Resource Economics (ESM 242)* 
   * Class taught by Andrew Plantinga. 
