@@ -14,7 +14,7 @@ author_profile: true
 
 * Boomhower, J., Fowlie, M., Gellman, J., & Plantinga, A. (2023). "How Are Insurance Markets Adapting to Climate Change? Risk Selection and Regulation in the Market for Homeowners Insurance."
 
-* Gellman, J., & Wibbenmeyer, M. (2023). "Wildfire Smoke in the United States." Submitted.
+* Gellman, J., & Wibbenmeyer, M. (2023). "Wildfire Smoke in the United States." Revise and Resubmit, Review of Environmental Economics and Policy.
 
 * Daum, K. L. W., Hansen, W. D., Gellman, J., Plantinga, A., Jones, C., & Trugman, A. T. (2023). "Do Vegetation Fuel Reduction Treatments Alter Forest Fire Severity and Sarbon Stability in California Forests?" Revise and Resubmit, Earth's Future.
 
