@@ -16,7 +16,7 @@ author_profile: true
 
 * Gellman, J., & Wibbenmeyer, M. (2023). "Wildfire Smoke in the United States." Revise and Resubmit, Review of Environmental Economics and Policy.
 
-* Daum, K. L. W., Hansen, W. D., Gellman, J., Plantinga, A., Jones, C., & Trugman, A. T. (2023). "Do Vegetation Fuel Reduction Treatments Alter Forest Fire Severity and Sarbon Stability in California Forests?" Revise and Resubmit, Earth's Future.
+* Daum, K. L. W., Hansen, W. D., Gellman, J., Plantinga, A., Jones, C., & Trugman, A. T. (2023). "Do Vegetation Fuel Reduction Treatments Alter Forest Fire Severity and Carbon Stability in California Forests?" Revise and Resubmit, Earth's Future.
 
 **Publications**
 * Gellman, J., Walls, M., & Wibbenmeyer, M. (2022). "Wildfire, Smoke, and Outdoor Recreation in the Western United States." Forest Policy and Economics, 134, 102619. [Main article](https://jacobgellman.github.io/files/gellman_et_al_2022-wildfire_smoke_recreation.pdf). [Appendix](https://jacobgellman.github.io/files/gellman_et_al_2022-wildfire_smoke_recreation_appendix.pdf). 
