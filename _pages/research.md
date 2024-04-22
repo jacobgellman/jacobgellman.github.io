@@ -12,9 +12,9 @@ author_profile: true
 **Working Papers**
 * Boomhower, J., Fowlie, M., Gellman, J., & Plantinga, A. (2024). "How Are Insurance Markets Adapting to Climate Change? Risk Selection and Regulation in the Market for Homeowners Insurance."
 
-* Gellman, J., & Wibbenmeyer, M. (2024). "Wildfire Smoke in the United States." Resources for the Future Working Paper [No. 24-04](https://jacobgellman.github.io/files/gellman_wibbenmeyer_2024-wildfire_smoke_in_united_states.pdf). Revise and Resubmit, Review of Environmental Economics and Policy.
+* Gellman, J., Walls, M., & Wibbenmeyer, M. (2024). "Welfare Losses from Wildfire Smoke: Evidence from Daily Outdoor Recreation Data." Most recent [version](https://jacobgellman.github.io/files/gellman_et_al_2024-welfare_losses_wildfire_smoke_recreation.pdf). Resources for the Future Working Paper [No. 23-21](https://jacobgellman.github.io/files/gellman_et_al_2023-wf_smoke_rec_rff_23-21.pdf). Submitted.
 
-* Gellman, J., Walls, M., & Wibbenmeyer, M. (2024). "Welfare Losses from Wildfire Smoke: Evidence from Daily Outdoor Recreation Data." Most recent [version](https://jacobgellman.github.io/files/gellman_et_al_2024-welfare_losses_wildfire_smoke_recreation.pdf). Resources for the Future Working Paper [No. 23-21](https://jacobgellman.github.io/files/gellman_et_al_2023-wf_smoke_rec_rff_23-21.pdf).
+* Gellman, J., & Wibbenmeyer, M. (2024). "Wildfire Smoke in the United States." Resources for the Future Working Paper [No. 24-04](https://jacobgellman.github.io/files/gellman_wibbenmeyer_2024-wildfire_smoke_in_united_states.pdf). Forthcoming, Review of Environmental Economics and Policy.
 
 **Works in Progress**
 * Berry, K., Gellman, J., Hennighausen, H., & Watson, B. "The Effect of Natural Disaster Information on Evacuations: Evidence from Hurricane Forecasts and Alerts."
