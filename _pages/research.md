@@ -19,7 +19,7 @@ author_profile: true
 **Works in Progress**
 * Berry, K., Gellman, J., Hennighausen, H., & Watson, B. "The Effect of Natural Disaster Information on Evacuations: Evidence from Hurricane Forecasts and Alerts."
 
-* Berry, K., Gellman, J., Hennighausen, H., & Watson, B. "Natural Disasters and Persistent Crime Reduction."
+* Berry, K., Gellman, J., Hennighausen, H., & Watson, B. "Natural Disasters and Crime."
 
 * Gellman, J., Pond, Z., & Wibbenmeyer, M. "Extreme Heat, Outdoor Recreation, and Climate Damages: Evidence from Campground Reservations and Cancellations."
 
