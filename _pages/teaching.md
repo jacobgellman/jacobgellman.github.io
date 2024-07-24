@@ -11,7 +11,7 @@ author_profile: true
 
 **Instructor, University of Alaska Anchorage**
 * *Principles of Microeconomics (ECON 101)* 
-  * Topics covered: supply and demand, optimization, consumer theory, producer theory, perfect competition, public goods, monopoly, oligopoly, and game theory.
+  * Topics covered: supply and demand, optimization, consumer theory, producer theory, perfect competition, trade, public goods, externalities, factors of production, monopoly, and oligopoly.
   * Textbook: Acemoglu, Laibson, and List, Microeconomics.
 
 **Teaching Assistant, University of California, Santa Barbara**
