@@ -17,7 +17,7 @@ author_profile: true
 * Gellman, J., & Wibbenmeyer, M. (2024). "Wildfire Smoke in the United States." Resources for the Future Working Paper [No. 24-04](https://jacobgellman.github.io/files/gellman_wibbenmeyer_2024-wildfire_smoke_in_united_states.pdf). Forthcoming, Review of Environmental Economics and Policy.
 
 **Works in Progress**
-* Berry, K., Gellman, J., Hennighausen, H., & Watson, B. "The Value of Hurricane Avoidance."
+* Berry, K., Gellman, J., Hennighausen, H., & Watson, B. "The Cost of Hurricane Evacuations."
 
 * Berry, K., Gellman, J., Hennighausen, H., & Watson, B. "Natural Disasters and Crime."
 
