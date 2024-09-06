@@ -14,7 +14,7 @@ author_profile: true
 
 * Gellman, J., Walls, M., & Wibbenmeyer, M. (2024). "Welfare Losses from Wildfire Smoke: Evidence from Daily Outdoor Recreation Data." RFF Working Paper No. 23-21. Revise and Resubmit, Journal of Environmental Economics and Management. [Article](https://jacobgellman.github.io/files/gellman_et_al_2024-welfare_losses_wildfire_smoke_recreation.pdf).
 
-* Gellman, J., & Wibbenmeyer, M. (2024). "Wildfire Smoke in the United States." Resources for the Future Working Paper No. 24-04. Forthcoming, Review of Environmental Economics and Policy. [Article](https://jacobgellman.github.io/files/gellman_wibbenmeyer_2024-wildfire_smoke_in_united_states.pdf). 
+* Gellman, J., & Wibbenmeyer, M. (2024). "Wildfire Smoke in the United States." RFF Working Paper No. 24-04. Forthcoming, Review of Environmental Economics and Policy. [Article](https://jacobgellman.github.io/files/gellman_wibbenmeyer_2024-wildfire_smoke_in_united_states.pdf). 
 
 **Works in Progress**
 * Berry, K., Gellman, J., Hennighausen, H., & Watson, B. "The Cost of Hurricane Evacuations."
