@@ -17,13 +17,13 @@ author_profile: true
 * Gellman, J., & Wibbenmeyer, M. (2024). "Wildfire Smoke in the United States." RFF Working Paper No. 24-04. Forthcoming, Review of Environmental Economics and Policy. [Article](https://jacobgellman.github.io/files/gellman_wibbenmeyer_2024-wildfire_smoke_in_united_states.pdf). 
 
 **Works in Progress**
-* Berry, K., Gellman, J., Hennighausen, H., & Watson, B. "The Cost of Hurricane Evacuations."
-
-* Berry, K., Gellman, J., Hennighausen, H., & Watson, B. "Natural Disasters and Crime."
+* Gellman, J., Hennighausen, H., Watson, B., & Berry, K. "The Cost of Hurricane Evacuations."
 
 * Gellman, J., Pond, Z., & Wibbenmeyer, M. "Valuation of Climate Amenities Using Campground Reservations and Cancellations."
 
 * Gellman, J. "Effects of Affordable Housing Quotas on Housing Markets."
+
+* Hennighausen, H., Gellman, J., Watson, B., & Berry, K. "Natural Disasters and Crime."
 
 **Publications**
 * Daum, K. L., Hansen, W. D., Gellman, J., Plantinga, A. J., Jones, C., & Trugman, A. T. (2024). "Do Vegetation Fuel Reduction Treatments Alter Forest Fire Severity and Carbon Stability in California Forests?" Earth's Future, 12(3), e2023EF003763. [Main article](https://jacobgellman.github.io/files/daum_et_al_2024-vegetation_treatments_carbon_fire.pdf). [Appendix](https://jacobgellman.github.io/files/daum_et_al_2024-vegetation_treatments_carbon_fire_appendix.pdf). 

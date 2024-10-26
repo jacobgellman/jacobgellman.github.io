@@ -10,6 +10,8 @@ author_profile: true
 ------
 
 **Instructor, University of Alaska Anchorage**
+* *UAA College of Business and Public Policy Economics Teaching Award, 2024*
+
 * *Principles of Microeconomics (ECON 101)* 
   * Topics covered: supply and demand, optimization, consumer theory, producer theory, perfect competition, trade, public goods, externalities, factors of production, monopoly, and oligopoly.
   * Textbook: Acemoglu, Laibson, and List, Microeconomics.
@@ -17,8 +19,8 @@ author_profile: true
 **Teaching Assistant, University of California, Santa Barbara**
 * *UCSB Academic Senate Outstanding Teaching Assistant Award, Nominee, 2021*
 
-* *Spatial analysis using the sf package in R* 
-  * A seminar I led for [eco-data-science](https://eco-data-science.github.io/) in March 2020. 
+* *EcoDataScience: Spatial analysis in R using the sf package* 
+  * A seminar I led for [EcoDataScience](https://github.com/eco-data-science) in March 2020 which was attended by graduate students and EPA regulators. 
   * Topics covered: transforming coordinate systems, making spatial data from non-spatial files, area and distance calculations, buffers, shapefile outputs, and map preparation. 
   * You can read the seminar materials [here](https://jacobgellman.github.io/files/eco-data-sci-sf.html) and clone the GitHub repository [here](https://github.com/jacobgellman/eco-data-sci-sf).
 
