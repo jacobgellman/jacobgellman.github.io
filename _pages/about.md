@@ -9,9 +9,7 @@ redirect_from:
 
 ![](images/ft_mcmurray_wiki.png)
 
-I am a Postdoctoral Fellow in the Department of Economics at the University of Alaska Anchorage. My research focuses on the economics of climate risk and adaptation. 
-
-Some current projects investigate the cost of hurricane evacuations, adaptation to climate change and natural disasters in homeowners insurance markets, and welfare damages of wildfire smoke for outdoor recreation. 
+I am a Postdoctoral Fellow in the Department of Economics at the University of Alaska Anchorage. My research focuses on the economics of climate risk and adaptation. Some current projects investigate the cost of hurricane evacuations, adaptation to climate change and natural disasters in homeowners insurance markets, and welfare damages of wildfire smoke for outdoor recreation. 
 
 I hold a PhD from the University of California, Santa Barbara. As a researcher at the Earth Research Institute in Santa Barbara I worked on interdisciplinary wildfire issues with economists, ecologists, meteorologists, and other natural scientists. Previously I worked as an energy economics consultant, where I advised utilities and tribes on energy decisions and produced expert witness testimony for entities such as the US Department of Justice and the Illinois Attorney General.
 
