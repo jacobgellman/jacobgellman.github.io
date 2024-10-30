@@ -9,7 +9,7 @@ redirect_from:
 
 ![](images/ft_mcmurray_wiki.png)
 
-I am a Postdoctoral Fellow in the Department of Economics at the University of Alaska Anchorage. My research focuses on the economics of climate risk and adaptation. 
+I am a Postdoctoral Fellow in the Department of Economics at the University of Alaska Anchorage. My research focuses on the economics of natural disasters, climate adaptation, and public lands. 
 
 Some current projects investigate the cost of hurricane evacuations, adaptation to climate change and natural disasters in homeowners insurance markets, and welfare damages of wildfire smoke for outdoor recreation. 
 
