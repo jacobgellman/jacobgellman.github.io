@@ -12,7 +12,7 @@ author_profile: true
 **Working Papers**
 * Boomhower, J., Fowlie, M., Gellman, J., & Plantinga, A. (2024). "How Are Insurance Markets Adapting to Climate Change? Risk Selection and Regulation in the Market for Homeowners Insurance." NBER Working Paper No. 32625. [Article](https://jacobgellman.github.io/files/boomhower_et_al_2024-insurance_markets_climate_change_risk.pdf).
 
-* Gellman, J., Hennighausen, H., Watson, B., & Berry, K. (2024). "The Cost of Hurricane Evacuations." [Article](https://jacobgellman.github.io/files/gellman_et_al_2024-cost_hurricane_evacuations.pdf)
+* Gellman, J., Hennighausen, H., Watson, B., & Berry, K. (2024). "The Cost of Hurricane Evacuations." [Article](https://jacobgellman.github.io/files/gellman_et_al_2024-cost_hurricane_evacuations.pdf).
 
 * Gellman, J., Walls, M., & Wibbenmeyer, M. (2024). "Welfare Losses from Wildfire Smoke: Evidence from Daily Outdoor Recreation Data." RFF Working Paper No. 23-21. Revise and Resubmit, Journal of Environmental Economics and Management. [Article](https://jacobgellman.github.io/files/gellman_et_al_2024-welfare_losses_wildfire_smoke_recreation.pdf).
 
