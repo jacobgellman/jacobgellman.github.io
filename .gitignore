@@ -1,6 +1,5 @@
 _site/
-
 .Rproj.user
-**.Rhistory
 .Rhistory
 *.Rhistory
+**.Rhistory
