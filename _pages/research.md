@@ -24,7 +24,7 @@ author_profile: true
 * Hennighausen, H., Gellman, J., Watson, B., & Berry, K. "Natural Disasters and Crime."
 
 **Publications**
-* Gellman, J., & Wibbenmeyer, M. (2024). "Wildfire Smoke in the United States." RFF Working Paper No. 24-04. Review of Environmental Economics and Policy, 19(1). [Article](https://jacobgellman.github.io/files/gellman_wibbenmeyer_2025-wildfire_smoke_in_united_states.pdf). 
+* Gellman, J., & Wibbenmeyer, M. (2025). "Wildfire Smoke in the United States." RFF Working Paper No. 24-04. Review of Environmental Economics and Policy, 19(1). [Article](https://jacobgellman.github.io/files/gellman_wibbenmeyer_2025-wildfire_smoke_in_united_states.pdf). 
 
 * Daum, K. L., Hansen, W. D., Gellman, J., Plantinga, A. J., Jones, C., & Trugman, A. T. (2024). "Do Vegetation Fuel Reduction Treatments Alter Forest Fire Severity and Carbon Stability in California Forests?" Earth's Future, 12(3), e2023EF003763. [Main article](https://jacobgellman.github.io/files/daum_et_al_2024-vegetation_treatments_carbon_fire.pdf). [Appendix](https://jacobgellman.github.io/files/daum_et_al_2024-vegetation_treatments_carbon_fire_appendix.pdf). 
 
