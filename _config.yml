@@ -91,6 +91,7 @@ author:
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
+  bluesky          : "jacobgellman.com"
   codepen          :
   dribbble         :
   flickr           :
@@ -111,7 +112,6 @@ author:
   steam            :
   tumblr           :
   twitter          : # "jacobgellman"
-  bluesky          : "https://bsky.app/profile/jacobgellman.com"
   vine             :
   weibo            :
   xing             :
