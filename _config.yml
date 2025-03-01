@@ -98,18 +98,20 @@ author:
   foursquare       :
   github           : "jacobgellman"
   google_plus      :
+  googlescholar    : "https://scholar.google.com/citations?user=rfQmUqYAAAAJ"
   keybase          :
   instagram        :
   # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "jgellman"
-  # orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-9360-8784"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "jacobgellman"
+  bluesky          : "https://bsky.app/profile/jacobgellman.com"
   vine             :
   weibo            :
   xing             :
