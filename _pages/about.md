@@ -15,7 +15,7 @@ My research focuses on the economics of climate risk and adaptation. Some curren
 
 I hold a PhD from the University of California, Santa Barbara. As a researcher at the Earth Research Institute in Santa Barbara I worked on interdisciplinary wildfire issues with economists, ecologists, meteorologists, and other natural scientists. Previously I was an energy economics consultant, where I advised utilities and tribes on energy decisions and produced expert witness testimony for state and federal government entities.
 
-My teaching experience spans natural resource economics, intermediate microeconomics, econometrics, and statistics. I enjoy mentoring students on research projects and professional development. Previously I taught English in the French school system for students aged 13 to 15.
+My teaching experience spans natural resource economics, intermediate microeconomics, econometrics, and statistics. Earlier in my career I taught English in the French school system for students aged 13 to 15.
 
 Personal interests include guitar, French, punk, new wave, art, hiking, and basketball.
 
