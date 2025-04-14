@@ -19,4 +19,4 @@ My teaching experience spans natural resource economics, intermediate microecono
 
 Personal interests include guitar, French, punk, new wave, art, hiking, and basketball.
 
-Email: jgellman@alaska.edu.
+Email: jacob.gellman@oregonstate.edu.
