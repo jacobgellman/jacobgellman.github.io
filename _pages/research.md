@@ -24,7 +24,7 @@ author_profile: true
 * Hennighausen, H., Gellman, J., Watson, B., & Berry, K. "Natural Disasters and Crime."
 
 **Publications**
-* Gellman, J., Walls, M., & Wibbenmeyer, M. (2025). "Welfare Losses from Wildfire Smoke: Evidence from Daily Outdoor Recreation Data." RFF Working Paper No. 23-21. Forthcoming, Journal of Environmental Economics and Management. [Article](https://jacobgellman.github.io/files/gellman_et_al_2025-welfare_losses_wildfire_smoke_recreation.pdf).
+* Gellman, J., Walls, M., & Wibbenmeyer, M. (2025). "Welfare Losses from Wildfire Smoke: Evidence from Daily Outdoor Recreation Data." RFF Working Paper No. 23-21. Journal of Environmental Economics and Management, 132, 103166. [Main article](https://jacobgellman.github.io/files/gellman_et_al_2025-welfare_losses_wildfire_smoke_recreation.pdf). [Appendix](https://jacobgellman.github.io/files/gellman_et_al_2025-welfare_losses_wildfire_smoke_recreation_appendix.pdf). 
 
 * Gellman, J., & Wibbenmeyer, M. (2025). "Wildfire Smoke in the United States." RFF Working Paper No. 24-04. Review of Environmental Economics and Policy, 19(1), 138-150. [Article](https://jacobgellman.github.io/files/gellman_wibbenmeyer_2025-wildfire_smoke_in_united_states.pdf). 
 
