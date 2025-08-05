@@ -15,6 +15,4 @@ I hold a PhD from the University of California, Santa Barbara. As a researcher a
 
 My teaching experience spans natural resource economics, intermediate microeconomics, econometrics, and statistics. Earlier in my career I taught English in the French school system for students aged 13 to 15.
 
-Personal interests include guitar, French, punk, new wave, art, hiking, and basketball.
-
 Email: jacob.gellman@oregonstate.edu.
