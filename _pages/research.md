@@ -19,8 +19,6 @@ author_profile: true
 
 * Gellman, J., Pond, Z., & Wibbenmeyer, M. "Valuation of Climate Amenities Using Campground Reservations and Cancellations."
 
-* Gellman, J. "Effects of Affordable Housing Quotas on Housing Markets."
-
 * Hennighausen, H., Gellman, J., Watson, B., & Berry, K. "Natural Disasters and Crime."
 
 **Publications**
