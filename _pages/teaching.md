@@ -45,6 +45,6 @@ author_profile: true
   * Topics covered: Renewable resources, exhaustible resources, dynamic programming, fisheries, Faustmann models, stock pollutants, spatial dependencies, non-market values, and other extensions. 
   * Textbook: Conrad, Resource Economics.
 
-**Teaching Assistant, Acadèmie de Rouen**
+**Assistant de Langue, Acadèmie de Rouen**
 * *English* 
   * From 2013 to 2014 I taught students at the middle school level, ages 13 to 15, at Collège Les Acacias and Collège La Hève in Le Havre, France.
