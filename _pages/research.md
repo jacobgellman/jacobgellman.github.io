@@ -14,7 +14,7 @@ author_profile: true
 
 * Gellman, J., Hennighausen, H., Watson, B., & Berry, K. (2024). "The Cost of Hurricane Evacuations." [Article](https://jacobgellman.github.io/files/gellman_et_al_2024-cost_hurricane_evacuations.pdf).
 
-**Works in Progress**
+**Selected Works in Progress**
 * Garcia, A., & Gellman, J. "Urban Tree Loss and Social Outcomes."
 
 * Gellman, J., Pond, Z., & Wibbenmeyer, M. "Valuation of Climate Amenities Using Campground Reservations and Cancellations."

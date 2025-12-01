@@ -9,7 +9,7 @@ redirect_from:
 
 ![](images/ft_mcmurray_wiki.png)
 
-I am an Assistant Professor in the Department of Applied Economics at Oregon State University. My research focuses on the economics of climate risk and adaptation. Some current projects investigate the economic cost of hurricane evacuations, climate risk in homeowners insurance markets, and welfare damages of extreme temperatures for recreation use on public lands. 
+I am an Assistant Professor in the Department of Applied Economics at Oregon State University. My research focuses on the economics of climate risk and adaptation. Some current projects investigate the economic cost of hurricane evacuations, climate risk in homeowners insurance markets, and welfare damages of extreme temperatures for recreation on public lands. 
 
 Previously I was a Postdoctoral Fellow at the University of Alaska Anchorage. I hold a PhD from the University of California, Santa Barbara. As a researcher at the Earth Research Institute in Santa Barbara I worked on interdisciplinary wildfire issues with economists, ecologists, and other natural scientists. Before graduate school I was an energy economics consultant, where I advised utilities and tribes on energy decisions and produced expert witness testimony for state and federal government entities.
 
