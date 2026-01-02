@@ -9,14 +9,19 @@ author_profile: true
 
 ------
 
-**Instructor, University of Alaska Anchorage**
+**Assistant Professor, Instructor, Oregon State University**
+* *Environmental Law, Policy, and Economics (AEC 253)*
+  * Topics covered: Optimization, public goods, open access, externalities, non-market valuation, ecological economics, regulation, pollution taxes, pollution markets, innovation.
+  * Textbook: Goodstein, Wong, and Polasky, Economics and the Environment.
+
+**Postdoctoral Fellow, Instructor, University of Alaska Anchorage**
 * *UAA College of Business and Public Policy Economics Teaching Award, 2024*
 
 * *Principles of Microeconomics (ECON 101)* 
   * Topics covered: Supply and demand, optimization, consumer theory, producer theory, perfect competition, trade, public goods, externalities, factors of production, monopoly, and oligopoly.
   * Textbook: Acemoglu, Laibson, and List, Microeconomics.
 
-**Teaching Assistant, University of California, Santa Barbara**
+**PhD Student, Teaching Assistant, University of California, Santa Barbara**
 * *UCSB Academic Senate Outstanding Teaching Assistant Award, Nominee, 2021*
 
 * *EcoDataScience: Spatial analysis in R using the sf package* 

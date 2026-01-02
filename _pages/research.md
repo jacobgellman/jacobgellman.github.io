@@ -17,7 +17,7 @@ author_profile: true
 **Selected Works in Progress**
 * Garcia, A., & Gellman, J. "Urban Tree Loss and Social Outcomes."
 
-* Gellman, J., Pond, Z., & Wibbenmeyer, M. "Valuation of Climate Amenities Using Campground Reservations and Cancellations."
+* Gellman, J., Pond, Z., & Wibbenmeyer, M. "Welfare Effects of Climate Change for Outdoor Recreation."
 
 * Hennighausen, H., Gellman, J., Watson, B., & Berry, K. "Natural Disasters and Crime."
 
