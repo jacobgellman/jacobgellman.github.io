@@ -19,7 +19,7 @@ author_profile: true
 
 * Gellman, J., Pond, Z., & Wibbenmeyer, M. "Welfare Effects of Climate Change for Outdoor Recreation."
 
-* Hennighausen, H., Gellman, J., Watson, B., & Berry, K. "Natural Disasters and Crime."
+* Gellman, J., Hennighausen, H., Watson, B., & Berry, K. "Hurricanes and Public Safety."
 
 **Publications**
 * Gellman, J., Walls, M., & Wibbenmeyer, M. (2025). "Welfare Losses from Wildfire Smoke: Evidence from Daily Outdoor Recreation Data." RFF Working Paper No. 23-21. *Journal of Environmental Economics and Management*, 132, 103166. [Article](https://jacobgellman.github.io/files/gellman_et_al_2025-welfare_losses_wildfire_smoke_recreation.pdf).
