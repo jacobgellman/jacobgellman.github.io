@@ -11,7 +11,7 @@ author_profile: true
 
 **Assistant Professor, Instructor, Oregon State University**
 * *Environmental Law, Policy, and Economics (AEC 253)*
-  * Topics covered: Optimization, public goods, open access, externalities, non-market valuation, ecological economics, regulation, pollution taxes, pollution markets, innovation.
+  * Topics covered: Optimization, public goods, open access, externalities, non-market valuation, ecological economics, regulation, administrative law, tort law, pollution taxes, pollution markets, innovation.
   * Textbook: Goodstein, Wong, and Polasky, Economics and the Environment.
 
 **Postdoctoral Fellow, Instructor, University of Alaska Anchorage**
