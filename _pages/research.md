@@ -12,7 +12,7 @@ author_profile: true
 **Working Papers**
 * Boomhower, J., Fowlie, M., Gellman, J., & Plantinga, A. (2025). "How Are Insurance Markets Adapting to Climate Change? Risk Selection and Regulation in the Market for Homeowners Insurance." NBER Working Paper No. 32625. [Article](https://jacobgellman.github.io/files/boomhower_et_al_2025-insurance_markets_climate_change_risk.pdf).
 
-* Gellman, J., Hennighausen, H., Watson, B., & Berry, K. (2024). "The Cost of Hurricane Evacuations." Draft available upon request.
+* Gellman, J., Hennighausen, H., Watson, B., & Berry, K. (2024). "The Cost of Hurricane Evacuations." [Article](https://jacobgellman.github.io/files/gellman_et_al_2024-cost_hurricane_evacuations.pdf).
 
 **Selected Works in Progress**
 * Garcia, A., & Gellman, J. "Urban Tree Loss and Social Outcomes."
