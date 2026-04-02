@@ -1,4 +1,6 @@
-# Jacob Gellman's academic website. 
+# Academic website for Jacob Gellman
+
+See the website here: https://jacobgellman.com, which redirects to https://jacobgellman.github.io. 
 
 This website is built using a Github Pages template for academic websites. It uses the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
