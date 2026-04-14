@@ -28,7 +28,7 @@ author_profile: true
 **PhD Student, Teaching Assistant, University of California, Santa Barbara**
 * *UCSB Academic Senate Outstanding Teaching Assistant Award, Nominee, 2021*
 
-* *EcoDataScience: Spatial analysis in R using the sf package* 
+* *EcoDataScience: Spatial analysis in R* 
   * Seminar for [EcoDataScience](https://github.com/eco-data-science) attended by graduate students and EPA regulators. 
   * Topics covered: Transforming coordinate systems, making spatial data from non-spatial files, area and distance calculations, buffers, shapefile outputs, and map preparation. 
   * Seminar materials [here](https://jacobgellman.github.io/files/eco-data-sci-sf.html). 
