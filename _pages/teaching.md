@@ -12,7 +12,7 @@ author_profile: true
 **Assistant Professor, Instructor, Oregon State University**
 * *Data Science for Economics and Policy (AEC 699)*
   * Topics covered: Data cleaning, Git, shell functionality, data visualization, webscraping, regression, spatial analysis, parallel programming, cloud computing, databases, machine learning, artificial intelligence.
-  * Textbook: Wickham, Çetinkaya-Rundel, and Grolemund, R for Data Science.
+  * Textbook: McDermott, Data Science for Economists; Wickham, Çetinkaya-Rundel, and Grolemund, R for Data Science.
 
 * *Environmental Law, Policy, and Economics (AEC 253)*
   * Topics covered: Optimization, public goods, open access, externalities, non-market valuation, ecological economics, regulation, administrative law, tort law, pollution taxes, pollution markets, innovation.
