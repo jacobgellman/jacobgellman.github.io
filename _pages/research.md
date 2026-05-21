@@ -9,19 +9,20 @@ author_profile: true
 
 ------
 
-**Working Papers**
-* Boomhower, J., Fowlie, M., Gellman, J., & Plantinga, A. (2025). "How Are Insurance Markets Adapting to Climate Change? Risk Selection and Regulation in the Market for Homeowners Insurance." NBER Working Paper No. 32625. [Article](https://jacobgellman.github.io/files/boomhower_et_al_2025-insurance_markets_climate_change_risk.pdf).
-
-* Gellman, J., Hennighausen, H., Watson, B., & Berry, K. (2024). "The Cost of Hurricane Evacuations." [Article](https://jacobgellman.github.io/files/gellman_et_al_2024-cost_hurricane_evacuations.pdf).
+<!-- **Working Papers** -->
 
 **Selected Works in Progress**
-* Garcia, A., & Gellman, J. "Urban Tree Loss and Social Outcomes."
+* Gellman, J., Hennighausen, H., Watson, B., & Berry, K. (2024). "The Cost of Hurricane Evacuations." [Article](https://jacobgellman.github.io/files/gellman_et_al_2024-cost_hurricane_evacuations.pdf).
 
-* Gellman, J., Pond, Z., & Wibbenmeyer, M. "Welfare Effects of Climate Change for Outdoor Recreation."
+* Garcia, A., & Gellman, J. (2026). "Urban Tree Loss and Social Outcomes."
 
-* Gellman, J., Hennighausen, H., Watson, B., & Berry, K. "Hurricanes and Public Safety."
+* Gellman, J., Pond, Z., & Wibbenmeyer, M. (2026). "Welfare Effects of Climate Change for Outdoor Recreation."
+
+* Gellman, J., Hennighausen, H., Watson, B., & Berry, K. (2026). "Hurricanes and Public Safety."
 
 **Publications**
+* Boomhower, J., Fowlie, M., Gellman, J., & Plantinga, A. (2026). "How Are Insurance Markets Adapting to Climate Change? Risk Selection and Regulation in the Market for Homeowners Insurance." NBER Working Paper No. 32625. Conditionally accepted, *American Economic Review: Insights*. [Article](https://jacobgellman.github.io/files/boomhower_et_al_2025-insurance_markets_climate_change_risk.pdf).
+
 * Gellman, J., Walls, M., & Wibbenmeyer, M. (2025). "Welfare Losses from Wildfire Smoke: Evidence from Daily Outdoor Recreation Data." RFF Working Paper No. 23-21. *Journal of Environmental Economics and Management*, 132, 103166. [Article](https://jacobgellman.github.io/files/gellman_et_al_2025-welfare_losses_wildfire_smoke_recreation.pdf).
 
 * Gellman, J., & Wibbenmeyer, M. (2025). "Wildfire Smoke in the United States." RFF Working Paper No. 24-04. *Review of Environmental Economics and Policy*, 19(1), 138-150. [Article](https://jacobgellman.github.io/files/gellman_wibbenmeyer_2025-wildfire_smoke_in_united_states.pdf). 
