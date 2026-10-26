@@ -17,6 +17,10 @@ author_profile: true
 * *Environmental Law, Policy, and Economics (AEC 253)*
   * Topics covered: Optimization, public goods, open access, externalities, non-market valuation, ecological economics, regulation, administrative law, tort law, pollution taxes, pollution markets, innovation.
   * Textbook: Goodstein, Wong, and Polasky, Economics and the Environment.
+  
+* *Introduction to Agricultural and Food Economics (AEC 251)*
+  * Topics covered: Supply and demand, optimization, consumer theory, producer theory, perfect competition, trade, public goods, externalities, factors of production, monopoly, and oligopoly.
+  * Textbook: Acemoglu, Laibson, and List, Microeconomics.
 
 **Postdoctoral Fellow, Instructor, University of Alaska Anchorage**
 * *UAA College of Business and Public Policy Economics Teaching Award, 2024*
