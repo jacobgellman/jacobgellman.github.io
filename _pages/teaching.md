@@ -15,11 +15,11 @@ author_profile: true
   * Textbook: McDermott, Data Science for Economists; Wickham, Çetinkaya-Rundel, and Grolemund, R for Data Science.
 
 * *Environmental Law, Policy, and Economics (AEC 253)*
-  * Topics covered: Optimization, public goods, open access, externalities, non-market valuation, ecological economics, regulation, administrative law, tort law, pollution taxes, pollution markets, innovation.
+  * Topics covered: Optimization, public goods, open access, externalities, non-market valuation, ecological economics, regulation, statutes, administrative law, tort law, liability law, pollution taxes, pollution markets, innovation.
   * Textbook: Goodstein, Wong, and Polasky, Economics and the Environment.
   
 * *Introduction to Agricultural and Food Economics (AEC 251)*
-  * Topics covered: Supply and demand, optimization, consumer theory, producer theory, perfect competition, trade, public goods, externalities, factors of production, monopoly, and oligopoly.
+  * Topics covered: Applications to agricultural and food systems, supply and demand, optimization, consumer theory, producer theory, perfect competition, trade, public goods, externalities, monopoly, oligopoly, factors of production.
   * Textbook: Acemoglu, Laibson, and List, Microeconomics.
 
 **Postdoctoral Fellow, Instructor, University of Alaska Anchorage**

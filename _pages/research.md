@@ -14,12 +14,14 @@ author_profile: true
 
 * Gellman, J., Hennighausen, H., Watson, B., & Berry, K. (2026). "The Cost of Hurricane Evacuations." SSRN Working Paper No. 7514741. [Article](https://jacobgellman.github.io/files/gellman_et_al_2026-cost_hurricane_evacuations.pdf).
 
+* Gellman, J., Pond, Z., & Wibbenmeyer, M. (2026). "Welfare Effects of Climate Change for Outdoor Recreation."
+
 **Selected Works in Progress**
 * Garcia, A., & Gellman, J. (2026). "Urban Tree Loss and Social Outcomes."
 
-* Gellman, J., Pond, Z., & Wibbenmeyer, M. (2026). "Welfare Effects of Climate Change for Outdoor Recreation."
-
 * Gellman, J., Hennighausen, H., Watson, B., & Berry, K. (2026). "Hurricanes and Public Safety."
+
+* Gellman, J. & Holland, L. (2026). "Willingness to Pay for Wildfire Smoke Avoidance."
 
 **Publications**
 * Gellman, J., Walls, M., & Wibbenmeyer, M. (2025). "Welfare Losses from Wildfire Smoke: Evidence from Daily Outdoor Recreation Data." RFF Working Paper No. 23-21. *Journal of Environmental Economics and Management*, 132, 103166. [Article](https://jacobgellman.github.io/files/gellman_et_al_2025-welfare_losses_wildfire_smoke_recreation.pdf).
